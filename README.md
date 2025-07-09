@@ -74,7 +74,3 @@ This contract brings that entire workflow **on-chain** — making it trustless, 
 
 ## 🛡️ License
 Licensed under the MIT License.
-
-## 🙋‍♂️ Author
-Mrinal Singh
-Day 147 of #200DaysOfCode
